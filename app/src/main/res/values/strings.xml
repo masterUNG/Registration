@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoginAndRegistration</string>
+    <string name="username">อีเมล์</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="sign_in">ลงชื่อเข้าใช้</string>
+    <string name="register">สมัครสมาชิก</string>
+    <string name="full_name">ชื่อ</string>
+    <string name="confirm_password">ยืนยันรหัสผ่าน</string>
+    <string name="already_having_account">มีบัญชีอยู่แล้ว?</string>
+    <string name="log_in">เข้าสู่ระบบ</string>
+    <string name="not_having_account">ไม่มีบัญชีใช่หรือไม่</string>
+    <string name="sign_up">ลงชื่อ</string>
+    <string name="logout">ออกจากระบบ</string>
+    <string name="full_title">คำนำหน้าชื่อ</string>
+    <string name="full_last">นามสกุล</string>
+    <string name="full_phone">โทรศัพท์</string>
+</resources>
